@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhagat</h1>
-<h3 align="center">A passionate fullStack developer from Vancouver,Canada</h3>
+<h3 align="center">A fullStack developer from Vancouver,Canada</h3>
 
 - 🌱 I’m currently learning **NextJs**
 
